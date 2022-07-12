@@ -1,4 +1,4 @@
-# Instructions!
+# Instructions
 
 1. Put the spam word in the crasher.txt file
 
